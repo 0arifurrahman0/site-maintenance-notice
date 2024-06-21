@@ -13,7 +13,7 @@ A simple HTML page to notify users about scheduled maintenance on a website. Thi
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/site-maintenance-notice.git
+    git clone https://github.com/0arifurrahman0/site-maintenance-notice.git
     ```
 
 2. **Navigate to the project directory:**
